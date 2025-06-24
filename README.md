@@ -39,7 +39,7 @@ The executing scripts are listed belows:
 
 - **Fitting other Distributions.ipynb**
 
-   - The script is an attempt to fit commonly used distributions (i.e.,'Beta','Exponential','Gamma','Log-norm') to German long-distance data.
+   - The script is an attempt to fit commonly used distributions (i.e.,'Beta','Exponential','Gamma','Log-norm') to the German MiD long-distance data.
 
 - **Modelling Short Distance Trips.ipynb**
    - Caculate the power-law properties, plot the CCDF of it, show the power-law properties of different short and medium-distance transportation modes (i.e., MiD Walking, MiD Bicycling, NHTS Short Distance Public Transportation) in comparison to the empirical data. Check if power-law existed or not in these transportation modes.
@@ -71,5 +71,5 @@ The executing scripts are listed belows:
 * Note: Although the original raw dataset is not provided due to privacy concerns, the **results** folder contains all the pre-processed output files, which can be used to reproduce the part of the visualizations.
 
 ## Contact
-Gregor Bankhamer - gbank@cs.sbg.ac.at <br>
-Huiran Liu - huiran.liu@campus.tu-berlin.de
+Huiran Liu - huiran.liu@campus.tu-berlin.de <br>
+Gregor Bankhamer - bankhamer@tu-berlin.de
